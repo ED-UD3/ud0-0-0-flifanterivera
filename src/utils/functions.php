@@ -4,7 +4,7 @@
         printMessage();
     }
 
-    function printMessage{
+    function printMessage() {
         echo "Hello, world";
     }
 ?>
